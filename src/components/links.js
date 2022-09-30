@@ -12,6 +12,7 @@ function Links({ links }) {
             sx={{ width: { md: "80%" }, mx: "auto", borderRadius: 10 }}
           >
             <ListItemButton
+              id={`link-${link.name}`}
               href={link.url}
               LinkComponent="a"
               sx={{
