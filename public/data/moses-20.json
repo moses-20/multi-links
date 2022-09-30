@@ -1,0 +1,59 @@
+{
+  "name": "Moses Gameli",
+  "type": "personal",
+  "bio": "Software Developer - React | Flutter | Java | Node (TypeScript)",
+  "avatar": "https://github.com/moses-20.png",
+  "links": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/moses-20",
+      "icon": "github"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://facebook.com/M.O.Gameli",
+      "icon": "facebook"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/moses-20/",
+      "icon": "linkedin"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/moses_gameli",
+      "icon": "twitter"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/_mosesgameli/",
+      "icon": "instagram"
+    }
+  ],
+  "milestones": [
+    {
+      "title": "Learnt HTML",
+      "date": "April 2019",
+      "description": "Eu dolore pariatur excepteur minim adipisicing mollit sint veniam fugiat minim labore ea.",
+      "url": "https://github.com/moses-20"
+    },
+    {
+      "title": "Learnt CSS",
+      "date": "June 2019",
+      "description": "Eu dolore pariatur excepteur minim adipisicing mollit sint veniam fugiat minim labore ea.",
+      "url": "https://github.com/moses-20"
+    },
+    {
+      "title": "Learnt JavaScript",
+      "date": "September 2019",
+      "description": "Eu dolore pariatur excepteur minim adipisicing mollit sint veniam fugiat minim labore ea.",
+      "url": "https://github.com/moses-20"
+    },
+    {
+      "title": "Learnt JQuery",
+      "date": "May 2020",
+      "description": "Eu dolore pariatur excepteur minim adipisicing mollit sint veniam fugiat minim labore ea.",
+      "url": "https://github.com/moses-20"
+    }
+  ]
+}
