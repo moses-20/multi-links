@@ -47,7 +47,7 @@ function Home() {
           sx={{ flex: 1, mr: 2 }}
         />
         {isMobile ? (
-          <IconButton>
+          <IconButton onClick={handleQuery}>
             <GrSearch />
           </IconButton>
         ) : (
